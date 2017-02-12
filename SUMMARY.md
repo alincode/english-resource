@@ -6,7 +6,6 @@
 * [Business English](business-english.md)
 * [Dictionaries](dictionaries.md)
 * [ESL](esl.md)
-* [Conversation Exchange](exchange.md)
 * [Exercises and Tests](exercises.md)
 * [Grammar](grammar.md)
 * [Listening](listening.md)
