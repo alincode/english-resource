@@ -1,5 +1,9 @@
 # Listening
 
+## Youtbe Channels
+
+* [Hot Water Comedy Club - YouTube](https://www.youtube.com/channel/UCG1QXvv8CME3I6yts0IevTA): fun video
+
 ## Podcasts
 
 - [Player FM - Podcasts done right](https://player.fm/)
